@@ -3,10 +3,10 @@ package com.example.atulchaudhary.awstestapp;
 import com.amazonaws.regions.Regions;
 
 public class Constants {
-    public static final String APPSYNC_API_URL = "https://tgoa6n7r25dd3e3bspp46bmv4e.appsync-api.ap-south-1.amazonaws.com/graphql"; // TODO: Update the endpoint URL as specified on AppSync console
+    public static final String APPSYNC_API_URL = "https://oegkwbozprehpcg7uabstrtylm.appsync-api.ap-south-1.amazonaws.com/graphql"; // TODO: Update the endpoint URL as specified on AppSync console
 
     // API Key Authorization
-    public static final String APPSYNC_API_KEY = "da2-6szxah3dzbdqra64drvwenanl4"; // TODO: Copy the API Key specified on the AppSync Console
+    public static final String APPSYNC_API_KEY = "da2-e2pc44ff6jcs3byqzohcaov2l4"; // TODO: Copy the API Key specified on the AppSync Console
     public static final Regions APPSYNC_REGION = Regions.AP_SOUTH_1;
 
 
